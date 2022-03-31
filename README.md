@@ -34,14 +34,15 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app!
+-Extra features mentioned above that I have not completed.
+-Scoreboard( lower score for higher number of mistakes, time it took to complete the game)
 
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
+![] https://recordit.co/GZ36LDy9BL
+![](https://recordit.co/oEMaUGUaZ6
+![]https://recordit.co/edRzpOeXUQ
 ![](gif4-link-here)
 
 ## Reflection Questions
